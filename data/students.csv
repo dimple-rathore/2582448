@@ -1,0 +1,201 @@
+student_id,name,department,password
+1000001,Aarav Bansal,Computer Science,Aarav Bansal
+1000002,Aarav Bhat,Data Science,Aarav Bhat
+1000003,Aarav Chandra,Mathematics,Aarav Chandra
+1000004,Aarav Das,Physics,Aarav Das
+1000005,Aarav Desai,Commerce,Aarav Desai
+1000006,Aarav Gupta,Economics,Aarav Gupta
+1000007,Aarav Iyer,English,Aarav Iyer
+1000008,Aarav Joshi,Psychology,Aarav Joshi
+1000009,Aarav Kapoor,Biotechnology,Aarav Kapoor
+1000010,Aarav Khan,Statistics,Aarav Khan
+1000011,Aarav Mehta,Computer Science,Aarav Mehta
+1000012,Aarav Menon,Data Science,Aarav Menon
+1000013,Aarav Mishra,Mathematics,Aarav Mishra
+1000014,Aarav Nair,Physics,Aarav Nair
+1000015,Aarav Patel,Commerce,Aarav Patel
+1000016,Aarav Rao,Economics,Aarav Rao
+1000017,Aarav Reddy,English,Aarav Reddy
+1000018,Aarav Shah,Psychology,Aarav Shah
+1000019,Aarav Sharma,Biotechnology,Aarav Sharma
+1000020,Aarav Singh,Statistics,Aarav Singh
+1000021,Aarav Sinha,Computer Science,Aarav Sinha
+1000022,Aarav Thomas,Data Science,Aarav Thomas
+1000023,Aarav Verma,Mathematics,Aarav Verma
+1000024,Aarav Yadav,Physics,Aarav Yadav
+1000025,Aditi Bansal,Commerce,Aditi Bansal
+1000026,Aditi Bhat,Economics,Aditi Bhat
+1000027,Aditi Chandra,English,Aditi Chandra
+1000028,Aditi Das,Psychology,Aditi Das
+1000029,Aditi Desai,Biotechnology,Aditi Desai
+1000030,Aditi Gupta,Statistics,Aditi Gupta
+1000031,Aditi Iyer,Computer Science,Aditi Iyer
+1000032,Aditi Joshi,Data Science,Aditi Joshi
+1000033,Aditi Kapoor,Mathematics,Aditi Kapoor
+1000034,Aditi Khan,Physics,Aditi Khan
+1000035,Aditi Mehta,Commerce,Aditi Mehta
+1000036,Aditi Menon,Economics,Aditi Menon
+1000037,Aditi Mishra,English,Aditi Mishra
+1000038,Aditi Nair,Psychology,Aditi Nair
+1000039,Aditi Patel,Biotechnology,Aditi Patel
+1000040,Aditi Rao,Statistics,Aditi Rao
+1000041,Aditi Reddy,Computer Science,Aditi Reddy
+1000042,Aditi Shah,Data Science,Aditi Shah
+1000043,Aditi Sharma,Mathematics,Aditi Sharma
+1000044,Aditi Singh,Physics,Aditi Singh
+1000045,Aditi Sinha,Commerce,Aditi Sinha
+1000046,Aditi Thomas,Economics,Aditi Thomas
+1000047,Aditi Verma,English,Aditi Verma
+1000048,Aditi Yadav,Psychology,Aditi Yadav
+1000049,Akash Bansal,Biotechnology,Akash Bansal
+1000050,Akash Bhat,Statistics,Akash Bhat
+1000051,Akash Chandra,Computer Science,Akash Chandra
+1000052,Akash Das,Data Science,Akash Das
+1000053,Akash Desai,Mathematics,Akash Desai
+1000054,Akash Gupta,Physics,Akash Gupta
+1000055,Akash Iyer,Commerce,Akash Iyer
+1000056,Akash Joshi,Economics,Akash Joshi
+1000057,Akash Kapoor,English,Akash Kapoor
+1000058,Akash Khan,Psychology,Akash Khan
+1000059,Akash Mehta,Biotechnology,Akash Mehta
+1000060,Akash Menon,Statistics,Akash Menon
+1000061,Akash Mishra,Computer Science,Akash Mishra
+1000062,Akash Nair,Data Science,Akash Nair
+1000063,Akash Patel,Mathematics,Akash Patel
+1000064,Akash Rao,Physics,Akash Rao
+1000065,Akash Reddy,Commerce,Akash Reddy
+1000066,Akash Shah,Economics,Akash Shah
+1000067,Akash Sharma,English,Akash Sharma
+1000068,Akash Singh,Psychology,Akash Singh
+1000069,Akash Sinha,Biotechnology,Akash Sinha
+1000070,Akash Thomas,Statistics,Akash Thomas
+1000071,Akash Verma,Computer Science,Akash Verma
+1000072,Akash Yadav,Data Science,Akash Yadav
+1000073,Alisha Bansal,Mathematics,Alisha Bansal
+1000074,Alisha Bhat,Physics,Alisha Bhat
+1000075,Alisha Chandra,Commerce,Alisha Chandra
+1000076,Alisha Das,Economics,Alisha Das
+1000077,Alisha Desai,English,Alisha Desai
+1000078,Alisha Gupta,Psychology,Alisha Gupta
+1000079,Alisha Iyer,Biotechnology,Alisha Iyer
+1000080,Alisha Joshi,Statistics,Alisha Joshi
+1000081,Alisha Kapoor,Computer Science,Alisha Kapoor
+1000082,Alisha Khan,Data Science,Alisha Khan
+1000083,Alisha Mehta,Mathematics,Alisha Mehta
+1000084,Alisha Menon,Physics,Alisha Menon
+1000085,Alisha Mishra,Commerce,Alisha Mishra
+1000086,Alisha Nair,Economics,Alisha Nair
+1000087,Alisha Patel,English,Alisha Patel
+1000088,Alisha Rao,Psychology,Alisha Rao
+1000089,Alisha Reddy,Biotechnology,Alisha Reddy
+1000090,Alisha Shah,Statistics,Alisha Shah
+1000091,Alisha Sharma,Computer Science,Alisha Sharma
+1000092,Alisha Singh,Data Science,Alisha Singh
+1000093,Alisha Sinha,Mathematics,Alisha Sinha
+1000094,Alisha Thomas,Physics,Alisha Thomas
+1000095,Alisha Verma,Commerce,Alisha Verma
+1000096,Alisha Yadav,Economics,Alisha Yadav
+1000097,Aman Bansal,English,Aman Bansal
+1000098,Aman Bhat,Psychology,Aman Bhat
+1000099,Aman Chandra,Biotechnology,Aman Chandra
+1000100,Aman Das,Statistics,Aman Das
+1000101,Aman Desai,Computer Science,Aman Desai
+1000102,Aman Gupta,Data Science,Aman Gupta
+1000103,Aman Iyer,Mathematics,Aman Iyer
+1000104,Aman Joshi,Physics,Aman Joshi
+1000105,Aman Kapoor,Commerce,Aman Kapoor
+1000106,Aman Khan,Economics,Aman Khan
+1000107,Aman Mehta,English,Aman Mehta
+1000108,Aman Menon,Psychology,Aman Menon
+1000109,Aman Mishra,Biotechnology,Aman Mishra
+1000110,Aman Nair,Statistics,Aman Nair
+1000111,Aman Patel,Computer Science,Aman Patel
+1000112,Aman Rao,Data Science,Aman Rao
+1000113,Aman Reddy,Mathematics,Aman Reddy
+1000114,Aman Shah,Physics,Aman Shah
+1000115,Aman Sharma,Commerce,Aman Sharma
+1000116,Aman Singh,Economics,Aman Singh
+1000117,Aman Sinha,English,Aman Sinha
+1000118,Aman Thomas,Psychology,Aman Thomas
+1000119,Aman Verma,Biotechnology,Aman Verma
+1000120,Aman Yadav,Statistics,Aman Yadav
+1000121,Ananya Bansal,Computer Science,Ananya Bansal
+1000122,Ananya Bhat,Data Science,Ananya Bhat
+1000123,Ananya Chandra,Mathematics,Ananya Chandra
+1000124,Ananya Das,Physics,Ananya Das
+1000125,Ananya Desai,Commerce,Ananya Desai
+1000126,Ananya Gupta,Economics,Ananya Gupta
+1000127,Ananya Iyer,English,Ananya Iyer
+1000128,Ananya Joshi,Psychology,Ananya Joshi
+1000129,Ananya Kapoor,Biotechnology,Ananya Kapoor
+1000130,Ananya Khan,Statistics,Ananya Khan
+1000131,Ananya Mehta,Computer Science,Ananya Mehta
+1000132,Ananya Menon,Data Science,Ananya Menon
+1000133,Ananya Mishra,Mathematics,Ananya Mishra
+1000134,Ananya Nair,Physics,Ananya Nair
+1000135,Ananya Patel,Commerce,Ananya Patel
+1000136,Ananya Rao,Economics,Ananya Rao
+1000137,Ananya Reddy,English,Ananya Reddy
+1000138,Ananya Shah,Psychology,Ananya Shah
+1000139,Ananya Sharma,Biotechnology,Ananya Sharma
+1000140,Ananya Singh,Statistics,Ananya Singh
+1000141,Ananya Sinha,Computer Science,Ananya Sinha
+1000142,Ananya Thomas,Data Science,Ananya Thomas
+1000143,Ananya Verma,Mathematics,Ananya Verma
+1000144,Ananya Yadav,Physics,Ananya Yadav
+1000145,Arjun Bansal,Commerce,Arjun Bansal
+1000146,Arjun Bhat,Economics,Arjun Bhat
+1000147,Arjun Chandra,English,Arjun Chandra
+1000148,Arjun Das,Psychology,Arjun Das
+1000149,Arjun Desai,Biotechnology,Arjun Desai
+1000150,Arjun Gupta,Statistics,Arjun Gupta
+1000151,Arjun Iyer,Computer Science,Arjun Iyer
+1000152,Arjun Joshi,Data Science,Arjun Joshi
+1000153,Arjun Kapoor,Mathematics,Arjun Kapoor
+1000154,Arjun Khan,Physics,Arjun Khan
+1000155,Arjun Mehta,Commerce,Arjun Mehta
+1000156,Arjun Menon,Economics,Arjun Menon
+1000157,Arjun Mishra,English,Arjun Mishra
+1000158,Arjun Nair,Psychology,Arjun Nair
+1000159,Arjun Patel,Biotechnology,Arjun Patel
+1000160,Arjun Rao,Statistics,Arjun Rao
+1000161,Arjun Reddy,Computer Science,Arjun Reddy
+1000162,Arjun Shah,Data Science,Arjun Shah
+1000163,Arjun Sharma,Mathematics,Arjun Sharma
+1000164,Arjun Singh,Physics,Arjun Singh
+1000165,Arjun Sinha,Commerce,Arjun Sinha
+1000166,Arjun Thomas,Economics,Arjun Thomas
+1000167,Arjun Verma,English,Arjun Verma
+1000168,Arjun Yadav,Psychology,Arjun Yadav
+1000169,Aryan Bansal,Biotechnology,Aryan Bansal
+1000170,Aryan Bhat,Statistics,Aryan Bhat
+1000171,Aryan Chandra,Computer Science,Aryan Chandra
+1000172,Aryan Das,Data Science,Aryan Das
+1000173,Aryan Desai,Mathematics,Aryan Desai
+1000174,Aryan Gupta,Physics,Aryan Gupta
+1000175,Aryan Iyer,Commerce,Aryan Iyer
+1000176,Aryan Joshi,Economics,Aryan Joshi
+1000177,Aryan Kapoor,English,Aryan Kapoor
+1000178,Aryan Khan,Psychology,Aryan Khan
+1000179,Aryan Mehta,Biotechnology,Aryan Mehta
+1000180,Aryan Menon,Statistics,Aryan Menon
+1000181,Aryan Mishra,Computer Science,Aryan Mishra
+1000182,Aryan Nair,Data Science,Aryan Nair
+1000183,Aryan Patel,Mathematics,Aryan Patel
+1000184,Aryan Rao,Physics,Aryan Rao
+1000185,Aryan Reddy,Commerce,Aryan Reddy
+1000186,Aryan Shah,Economics,Aryan Shah
+1000187,Aryan Sharma,English,Aryan Sharma
+1000188,Aryan Singh,Psychology,Aryan Singh
+1000189,Aryan Sinha,Biotechnology,Aryan Sinha
+1000190,Aryan Thomas,Statistics,Aryan Thomas
+1000191,Aryan Verma,Computer Science,Aryan Verma
+1000192,Aryan Yadav,Data Science,Aryan Yadav
+1000193,Bharat Bansal,Mathematics,Bharat Bansal
+1000194,Bharat Bhat,Physics,Bharat Bhat
+1000195,Bharat Chandra,Commerce,Bharat Chandra
+1000196,Bharat Das,Economics,Bharat Das
+1000197,Bharat Desai,English,Bharat Desai
+1000198,Bharat Gupta,Psychology,Bharat Gupta
+1000199,Bharat Iyer,Biotechnology,Bharat Iyer
+1000200,Bharat Joshi,Statistics,Bharat Joshi
