@@ -771,7 +771,22 @@ else:
             "🤖 AI Explanation for This Classroom",
             expanded=True
         ):
+            selected_facilities = []
 
+            if projector:
+                selected_facilities.append("projector")
+
+            if smart_board:
+                selected_facilities.append("smart_board")
+
+            if computers:
+                selected_facilities.append("computers")
+
+            if wifi:
+                selected_facilities.append("wifi")
+
+            if air_conditioning:
+                selected_facilities.append("air_conditioning")
             explanation = generate_explanation(
                 room_id=selected_room,
                 building=selected_room_data["building"],
@@ -780,7 +795,7 @@ else:
                 distance=selected_room_data["distance"],
                 capacity_score=selected_room_data["capacity_score"],
                 facility_score=selected_room_data["facility_score"],
-                required_facilities=required_facilities
+                required_facilities=selected_facilities
             )
 
             st.write(explanation)
