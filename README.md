@@ -1,8 +1,8 @@
-\# AI-Powered Classroom Allocation System
+AI-Powered Classroom Allocation System
 
 
 
-\## Problem Statement
+Problem Statement
 
 
 
@@ -14,7 +14,7 @@ This project develops a local AI-powered classroom allocation system that recomm
 
 
 
-\## Objectives
+Objectives
 
 
 
@@ -32,7 +32,7 @@ This project develops a local AI-powered classroom allocation system that recomm
 
 
 
-\## Features
+Features
 
 
 
@@ -62,11 +62,11 @@ This project develops a local AI-powered classroom allocation system that recomm
 
 
 
-\## GenAI Components
+GenAI Components
 
 
 
-\### Local Large Language Model
+Local Large Language Model
 
 
 
@@ -102,15 +102,8 @@ The LLM runs locally through Ollama and does not require a cloud API.
 
 
 
-\### Local Image Generation
 
-
-
-A local image-generation component is included in the project structure and is intended to generate classroom visualizations based on classroom requirements.
-
-
-
-\## Allocation Methodology
+Allocation Methodology
 
 
 
@@ -126,7 +119,7 @@ The recommendation score combines three factors:
 
 
 
-\### Capacity Score
+Capacity Score
 
 
 
@@ -134,7 +127,7 @@ The capacity score measures how closely the classroom capacity matches the numbe
 
 
 
-\### Facility Score
+Facility Score
 
 
 
@@ -142,7 +135,7 @@ The facility score evaluates whether the classroom provides the facilities reque
 
 
 
-\### Distance Score
+Distance Score
 
 
 
@@ -170,7 +163,7 @@ Distance scores are:
 
 
 
-\## Dataset
+Dataset
 
 
 
@@ -200,7 +193,7 @@ The data is stored in CSV files under the `data/` directory.
 
 
 
-\## Technologies Used
+Technologies Used
 
 
 
@@ -224,15 +217,6 @@ The data is stored in CSV files under the `data/` directory.
 
 
 
-\## Installation
-
-
-
-\### 1. Clone the repository
-
-
-
-```bash
 
 git clone https://github.com/dimple-rathore/2582448.git
 
